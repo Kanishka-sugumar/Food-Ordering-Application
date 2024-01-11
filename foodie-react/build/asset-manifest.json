@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ex10/static/css/main.6deb8123.css",
+    "main.js": "/ex10/static/js/main.8ba2d1b9.js",
+    "static/js/787.ebd11b2e.chunk.js": "/ex10/static/js/787.ebd11b2e.chunk.js",
+    "static/media/fa-solid-900.svg": "/ex10/static/media/fa-solid-900.0ec0cc5685d258116325.svg",
+    "static/media/fa-brands-400.svg": "/ex10/static/media/fa-brands-400.6c7693a31ea2d2dc6fe9.svg",
+    "static/media/fa-solid-900.eot": "/ex10/static/media/fa-solid-900.d12229bd491638fa106a.eot",
+    "static/media/fa-solid-900.ttf": "/ex10/static/media/fa-solid-900.c4e5551b39a7d5c61027.ttf",
+    "static/media/login-background.jpg": "/ex10/static/media/login-background.4eda4e559b3472080dfa.jpg",
+    "static/media/fa-regular-400.svg": "/ex10/static/media/fa-regular-400.d18055720cc5bab12c36.svg",
+    "static/media/fa-brands-400.eot": "/ex10/static/media/fa-brands-400.39c1e33ca5d67754117c.eot",
+    "static/media/fa-brands-400.ttf": "/ex10/static/media/fa-brands-400.4d5ec63961cae00e3536.ttf",
+    "static/media/fa-solid-900.woff": "/ex10/static/media/fa-solid-900.6ccf0adaba47375248a9.woff",
+    "static/media/fa-brands-400.woff": "/ex10/static/media/fa-brands-400.a7cb8a53a882fd128ae0.woff",
+    "static/media/fa-solid-900.woff2": "/ex10/static/media/fa-solid-900.23a7efd8d0ef4f232f2b.woff2",
+    "static/media/fa-brands-400.woff2": "/ex10/static/media/fa-brands-400.38168200fbb96276baf9.woff2",
+    "static/media/restPlaceholder.jpg": "/ex10/static/media/restPlaceholder.146c46b5fb40d11d310c.jpg",
+    "static/media/logo.png": "/ex10/static/media/logo.d14f62a2b2d51bf18d0e.png",
+    "static/media/fa-regular-400.eot": "/ex10/static/media/fa-regular-400.d099731ecd1c83c2be63.eot",
+    "static/media/fa-regular-400.ttf": "/ex10/static/media/fa-regular-400.a403036f8820a4a4273d.ttf",
+    "static/media/logoWhite.png": "/ex10/static/media/logoWhite.bc4e8ff3faa6b1c06271.png",
+    "static/media/fa-regular-400.woff": "/ex10/static/media/fa-regular-400.b3759c28ef0607075578.woff",
+    "static/media/fa-regular-400.woff2": "/ex10/static/media/fa-regular-400.a28b95d3e799579ba1dd.woff2",
+    "index.html": "/ex10/index.html",
+    "main.6deb8123.css.map": "/ex10/static/css/main.6deb8123.css.map",
+    "main.8ba2d1b9.js.map": "/ex10/static/js/main.8ba2d1b9.js.map",
+    "787.ebd11b2e.chunk.js.map": "/ex10/static/js/787.ebd11b2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6deb8123.css",
+    "static/js/main.8ba2d1b9.js"
+  ]
+}
